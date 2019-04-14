@@ -1,0 +1,12 @@
+[
+  {
+    "type": "com.services.IMeeting",
+    "mapTo": "com.services.Meeting",
+    "singleton": false
+  },
+  {
+    "type": "com.services.IMeetingService",
+    "mapTo": "com.services.MeetingService",
+    "singleton": false
+  }
+]
